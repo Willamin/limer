@@ -1,5 +1,7 @@
 # limer
 
+_A tool for managing *l*ong running t*imer*s_
+
 ## Contributing
 
 1. Fork it ( https://github.com/willamin/limer/fork )
